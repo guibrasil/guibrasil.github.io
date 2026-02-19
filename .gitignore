@@ -1,0 +1,21 @@
+# Jekyll build output – GitHub Pages builds this automatically
+_site/
+
+# Ruby / Bundler
+.bundle/
+vendor/bundle
+*.gem
+*.rbc
+.ruby-version
+
+# OS / Editor
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Env
+.env
+.env.local

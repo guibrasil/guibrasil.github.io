@@ -2,8 +2,9 @@
 title: Your Name
 email: your@email.com
 description: iOS Developer — Portfolio & Blog
+# For GitHub Pages: https://guibrasil.github.io
 baseurl: ""
-url: ""
+url: "https://guibrasil.github.io"
 
 # Build settings
 markdown: kramdown
