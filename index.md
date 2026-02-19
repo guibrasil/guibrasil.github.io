@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Hi, I'm [Your Name]
+# Hi, I'm Gui Medeiros
 
 I'm an **iOS developer** — this is my personal site where I share what I'm building and writing about.
 
