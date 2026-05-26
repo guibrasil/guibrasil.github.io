@@ -1,0 +1,3 @@
+# Local development: use this to see the full site while under_construction is true in _config.yml
+# Run: bundle exec jekyll serve --config _config.yml,_config_dev.yml
+under_construction: false

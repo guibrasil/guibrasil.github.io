@@ -1,7 +1,10 @@
 # Site settings
 title: Gui Medeiros
-email: guibrasilmed@gmail.com
-description: iOS Developer — Portfolio & Blog
+email: gui.br.med@gmail.com
+description: iOS Developer — Portfolio
+
+# Set to false when ready to show the full site in production
+under_construction: false
 # For GitHub Pages: https://guibrasil.github.io
 baseurl: ""
 url: "https://guibrasil.github.io"
@@ -14,8 +17,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Minima theme – show header links (Home, About, Blog)
+# Minima theme – show header links (Home, About, Blog, Repositories)
 header_pages:
   - index.md
   - about.md
   - blog.md
+  - repositories.md
